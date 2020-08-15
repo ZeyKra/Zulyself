@@ -1,0 +1,2 @@
+# Zulyself
+Selfbot
